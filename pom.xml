@@ -43,7 +43,7 @@
                 <version>1.0.0</version>
                 <configuration>
                     <processTypes>
-                        <web>java -Dserver.port=$PORT -jar target/CalculatorWeb-1.0-SNAPSHOT.war</web>
+                        <web>java -Dserver.port=$PORT -jar target/Digester-1.0-SNAPSHOT.war</web>
                     </processTypes>
                     <appName>digester</appName>
                 </configuration>
